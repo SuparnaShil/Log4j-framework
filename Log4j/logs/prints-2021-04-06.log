@@ -1,0 +1,9 @@
+16:57:50.386 [main] DEBUG com.alpha.Demo - I am debugging
+16:57:50.399 [main] INFO  com.alpha.Demo - Object is present
+16:57:50.399 [main] ERROR com.alpha.Demo - Object is not present
+16:57:50.399 [main] FATAL com.alpha.Demo - Object is Fatal
+16:58:10.569 [main] DEBUG com.alpha.Demo - I am debugging
+16:58:10.572 [main] INFO  com.alpha.Demo - Object is present
+16:58:10.572 [main] ERROR com.alpha.Demo - Object is not present
+16:58:10.572 [main] FATAL com.alpha.Demo - Object is Fatal
+16:58:24.036 [main] DEBUG com.alpha.Demo - I am debugging
